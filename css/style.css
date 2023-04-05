@@ -249,6 +249,11 @@ body {
     font-style: normal !important;
     font-weight: 700 !important;
     font-size: 17px !important;
+    transition: all .2s !important;
+}
+
+.getstbutt:active {
+    background-color: #fab871 !important;
 }
 
 
