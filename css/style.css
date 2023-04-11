@@ -59,6 +59,7 @@ body {
     border: none !important;
     outline: none !important;
     height: 30px !important;
+    caret-color: #fff !important;
 }
 
 .srch-1::placeholder {
